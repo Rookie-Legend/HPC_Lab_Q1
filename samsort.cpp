@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <mpi.h>
-#include <random> // for better random number generation
+#include <random> // for better random number generation 
 
 // Merges two sorted vectors and keeps either the lower or upper half
 std::vector<int> compare_split(std::vector<int>& local_data, std::vector<int>& received_data, bool keep_lower_half) {
