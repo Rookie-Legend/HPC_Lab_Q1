@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include <vector>
+#include <vector> 
 #include <algorithm> 
 #include <mpi.h>
 #include <random> // for better random number generation
