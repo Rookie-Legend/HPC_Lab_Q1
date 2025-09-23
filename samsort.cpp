@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <mpi.h>
+#include <mpi.h> 
 #include <random> // for better random number generation 
 
 // Merges two sorted vectors and keeps either the lower or upper half
