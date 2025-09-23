@@ -6,7 +6,7 @@
 
 // Merges two sorted vectors and keeps either the lower or upper half
 std::vector<int> compare_split(std::vector<int>& local_data, std::vector<int>& received_data, bool keep_lower_half) {
-    std::vector<int> merged;
+    std::vector<int> merged; 
     merged.reserve(local_data.size() + received_data.size());
     std::merge(local_data.begin(), local_data.end(), received_data.begin(), received_data.end(), std::back_inserter(merged));
     if (keep_lower_half) {
