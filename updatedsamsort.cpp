@@ -1,7 +1,7 @@
 
 #include <iostream>
 #include <vector>
-#include <algorithm>
+#include <algorithm> 
 #include <mpi.h>
 #include <random> // for better random number generation
 
