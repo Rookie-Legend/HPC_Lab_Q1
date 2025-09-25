@@ -3,9 +3,9 @@
 Team Members:
 ---------------
 
-Jayadithya G   - 23011103019  
+Jayadithya G   - 23011103019
 <br/>
-Abhishek Pratipati - 23011103001 
+Abhishek Pratipati - 23011103001
 <br/>
 Girish RK - 23011103016
 <br/>
