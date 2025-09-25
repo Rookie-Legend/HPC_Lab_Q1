@@ -155,8 +155,6 @@ int main(int argc, char** argv) {
         cout << "Enter total number of elements: ";
         cin >> globalSize;
         if (globalSize % p != 0) {
-            cout << "Warning: not divisible by " << p
-                 << ". Truncating to " << (globalSize / p) * p << endl;
             globalSize = (globalSize / p) * p;
         }
     }
